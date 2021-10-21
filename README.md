@@ -68,8 +68,8 @@ The different features we want to include are:
 
 | Title                                                              | Date       | Publishing organization   |
 | -------------------------------------------------------------------|:----------:| ------------------------- |
-| [DHBWorld Blog](https://dhbworldka.wordpress.com/blog/)    | 21.10.2021 | Common Playground Team    |
-| [GitHub](https://github.com/nilskre/CommonPlayground)              | 21.10.2021 | Common Playground Team    |
+| [DHBWorld Blog](https://dhbworldka.wordpress.com/blog/)    | 21.10.2021 | DHBWorld Team    |
+| [GitHub](https://github.com/inFumumVerti/DHBWorld)              | 21.10.2021 | DHBWorld Team    |
 ### 1.5 Overview
 
 ## 2. Overall Description
