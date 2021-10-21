@@ -40,9 +40,23 @@ The DHBWorld app, as mentioned in 1.1 Purpose, is going to be an android app.
 
 Actors of this app can only be users.
 
-Planned Subsystems of our app are:
+The different features we want to include are:
 
-	- sdsd
+* Schedule: 
+  The schedule is one of our main features for this app. We want to use rapla to show the student his schedule on the app.
+* Meal plan: 
+  The meal plan should show the student the current meal for the day in the mensa at DHBW Karlsruhe.
+* Dualis: 
+  The dualis feature should give the user an easy way to look up his grades and we plan to realize a notification if a new grade is published.
+* User information: 
+  The user information is optional. You will have a page where you can note your student e-mail and matriculation number.
+* Tram departure: 
+  The tram departure page in our app shows the next few tram departures.
+* Floor plan: 
+  The floor plan page shows view of the DHBW building to give you an overview about where you are and where the next class is.
+* Notification cafeteria, printer, coffee machine: 
+  We want to give the user an opportunity to send a notification about the current queue in the cafeteria. If there are enough reports than all other users should get             notificated. The same idea is planned for the printer and the coffee machine at the DHBW.
+  
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
