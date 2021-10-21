@@ -36,7 +36,7 @@ We want to develop this app because there is currently not a working app for DHB
 
 ### 1.2 Scope
 
-The DHBWorld app, as mentioned in 1.1 Purpose, is going to be an android app.
+The DHBWorld app, as mentioned in "1.1 Purpose", is going to be an android app.
 
 Actors of this app can only be users.
 
@@ -72,27 +72,27 @@ The different features we want to include are:
 | [GitHub](https://github.com/inFumumVerti/DHBWorld)              | 21.10.2021 | DHBWorld Team    |
 ### 1.5 Overview
 
+The following chapter provides an overview of this project with vision and Overall Use Case Diagram. The third chapter (Requirements Specification) delivers more details about the specific requirements in terms of functionality, usability and design parameters. Finally there is a chapter with supporting information.
+
 ## 2. Overall Description
 
 ### 2.1 Vision
+
+Inspired and also annoyed by current not working correctly DHBW android apps we want to develop the DHBWorld app to combine the most important things for a student at DHBW Karlsruhe. The features are explained in "1.2 Scope". We want to build the all in one app so that you have all the key features combined in one __working__ app. So the future students do not have to switch between apps which contains only one or two features.
 
 ### 2.2 Use Case Diagram
 
 ### 2.3 Technology Stack
 
-Backend:
-
-Frontend:
+Languages: Java, XML
 
 IDE: Android Studio
 
-Project Management: Youtrack, GitHub
+Source Control Management: GitHub
 
-Deployment:
+Project Management: Youtrack
 
-
-Testing:
-
+Database: Firebase
 
 ## 3. Specific Requirements
 
