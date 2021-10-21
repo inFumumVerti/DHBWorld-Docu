@@ -31,9 +31,12 @@
 
 ### 1.1 Purpose
 
+Welcome to our Software Requirements Specification (SRS). Here we will describe all specifications for our android app "DHBWorld". This SRS will include an overview about our project and what we plan for it in the future. We will also mention and describe information about the planned features and general conditions of the development process.
+We want to develop this app because there is currently not a working app for DHBW (Karlsruhe) students which contains a schedule (rapla), meal plan, your grades, matriculation number. Also some features we thought that they would be nice like tram departure, notification about queue in the cafeteria, floor plan. So we want to develop an app which contains these things and is actually working correctly.
 
 ### 1.2 Scope
 
+The DHBWorld app as mentioned in "### 1.1 Purpose" is going to be an android app.
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
