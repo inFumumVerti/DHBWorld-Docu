@@ -1,1 +1,1 @@
-# DHBWorld-Docu
+# DHBWorld-Documentation
