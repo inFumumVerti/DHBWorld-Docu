@@ -36,7 +36,7 @@ We want to develop this app because there is currently not a working app for DHB
 
 ### 1.2 Scope
 
-The DHBWorld app as mentioned in "### 1.1 Purpose" is going to be an android app.
+The DHBWorld app as mentioned in ### 1.1 Purpose is going to be an android app.
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
