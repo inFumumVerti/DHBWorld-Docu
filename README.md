@@ -60,9 +60,16 @@ The different features we want to include are:
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
+| Abbrevation | Explanation                            |
+| ----------- | -------------------------------------- |
+| SRS         | Software Requirements Specification    |
 
 ### 1.4 References
 
+| Title                                                              | Date       | Publishing organization   |
+| -------------------------------------------------------------------|:----------:| ------------------------- |
+| [DHBWorld Blog](https://dhbworldka.wordpress.com/blog/)    | 21.10.2021 | Common Playground Team    |
+| [GitHub](https://github.com/nilskre/CommonPlayground)              | 21.10.2021 | Common Playground Team    |
 ### 1.5 Overview
 
 ## 2. Overall Description
