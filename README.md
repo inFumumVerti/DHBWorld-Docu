@@ -82,7 +82,7 @@ Inspired and also annoyed by current not working correctly DHBW android apps we 
 
 ### 2.2 Use Case Diagram
 
-![alt text](https://cdn.discordapp.com/attachments/895609009581740042/901483912939860028/neu0.png "Use Case Diagram DHBWorld")
+![alt text](https://cdn.discordapp.com/attachments/895609009581740042/901487708302630922/neu0.png "Use Case Diagram DHBWorld")
 
 * Green: until december
 * White: until june
