@@ -328,7 +328,7 @@
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-232,-154)" stroke-linecap="butt">
       <text x="992.4619" xml:space="preserve" y="870.7741" clip-path="url(#clipPath2)" stroke="none">Floor plan</text>
     </g>
-    <g fill="lime" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-232,-154)" stroke="lime">
+    <g fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-232,-154)" stroke="white">
       <ellipse rx="66.6309" ry="25" clip-path="url(#clipPath2)" cx="1019.1425" cy="928.079" stroke="none"/>
     </g>
     <g font-size="13px" stroke-linecap="butt" transform="matrix(1,0,0,1,-232,-154)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
