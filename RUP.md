@@ -1,4 +1,4 @@
-# Software Architecture Document
+# Software Architecture Document (RUP)
 
 # Table of Contents
 - [Introduction](#1-introduction)
