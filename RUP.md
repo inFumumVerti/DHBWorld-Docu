@@ -35,15 +35,10 @@ This document describes the architecture of the DHBWorld project.
 
 | Abbrevation | Description                            |
 | ----------- | -------------------------------------- |
-| API         | Application programming interface      |
 | MVC         | Model view controller                  |
-| REST        | Representational state transfer        |
-| SDK         | Software development kit               |
 | SRS         | Software requirements specification    |
 | UC          | Use case                               |
-| VCS         | Version control system                 |
 | n/a         | not applicable                         |
-| tbd         | to be determined                       |
 
 ### 1.4 References
 
