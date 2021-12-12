@@ -283,7 +283,7 @@
       <text x="972.173" xml:space="preserve" y="310.1199" clip-path="url(#clipPath2)" stroke="none">View departures</text>
       <ellipse rx="58.9387" fill="none" ry="25" clip-path="url(#clipPath2)" cx="1019.1425" cy="305.0132"/>
     </g>
-    <g fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-232,-154)" stroke="white">
+    <g fill="lime" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-232,-154)" stroke="lime">
       <ellipse rx="72.6226" ry="25" clip-path="url(#clipPath2)" cx="1375.2719" cy="301.3989" stroke="none"/>
     </g>
     <g font-size="13px" stroke-linecap="butt" transform="matrix(1,0,0,1,-232,-154)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
