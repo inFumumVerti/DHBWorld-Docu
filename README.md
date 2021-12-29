@@ -103,36 +103,29 @@ Database: Firebase
 ### 3.1 Functionality
 
 
-#### 3.1.1 Posting a session
+#### 3.1.1 Saving personal Information
+User can save important personal Information
 
-#### 3.1.2 Getting an overview
+#### 3.1.2 Schedule
+User can view his upcoming classes
 
+#### 3.1.3 Meal plan
+User can view the meal plan of the current week
 
-#### 3.1.3 Creating an account
+#### 3.1.4 Floor plan
+User can view the floor plan of the DHBW building
 
-#### 3.1.4 Logging in
+#### 3.1.5 User interaction
+User can notify other users about events (e.g. broken coffee maschine)
 
+#### 3.1.6 Dualis
+User can view his grades saved in the dualis system
 
-#### 3.1.5 Logging out
-
-
-#### 3.1.6 Joining a session
-
-#### 3.1.7 Keeping track of your sessions
-
-#### 3.1.8 Leaving a session
-
-#### 3.1.9 Finding a session
-
-#### 3.1.10 Getting in touch
-
-#### 3.1.11 Presenting yourself and checking out others
-
-#### 3.1.12 Reporting users and managing friends
-
-#### 3.1.13 Banning users and deleting posts
+#### 3.1.7 Tram departure
+User can view the next tram departures of the DHBW station
 
 ### 3.2 Usability
+tbd.
 
 #### 3.2.1 No training time needed
 
