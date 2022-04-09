@@ -144,6 +144,14 @@ Database: Firebase
 **Use Cases:**
 * *View departures:* User can view the next tram departures of the DHBW station
 
+#### 3.1.8 Settings
+
+**Use Cases:**
+* *Configure notifications:* Change settings about app-notifications
+* *Change design:* Change the design of the app
+* *Configure Dashboard:* Configure the visible information of the dashboard
+* *View information about App:* View information about the App like version, developers, etc.
+
 ### 3.2 Usability
 tbd.
 
