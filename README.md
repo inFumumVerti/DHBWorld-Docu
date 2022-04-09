@@ -102,7 +102,7 @@ Database: Firebase
 
 ### 3.1 Functionality
 
-#### 3.1.1 Saving personal Information
+#### 3.1.1 Dashboard
 
 **Use Cases:**
 * *Save personal Information:* User can save important personal Information
