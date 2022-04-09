@@ -68,7 +68,12 @@ As mentioned in chapter two our App is using the MVC pattern. This enables a cle
 The Android App is written in Java. In the Frontend no MVC Tool is needed, because the MVC Pattern is integrated into the Android Framework.
 
 ## 4. Use-Case View
-![Overall-Use-Case-Diagram](./Use%20Case%20Diagram.svg)
+![Overall-Use-Case-Diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Case%20Diagram_new.svg "Use Case Diagram DHBWorld")
+
+* Green: until december
+* White: until june
+* Yellow: optional
+* Gray: updated use cases
 
 ### 4.1 Use-Case Realizations
 n/a
