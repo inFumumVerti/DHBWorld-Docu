@@ -102,27 +102,47 @@ Database: Firebase
 
 ### 3.1 Functionality
 
-
 #### 3.1.1 Saving personal Information
-User can save important personal Information
+
+**Use Cases:**
+* *Save personal Information:* User can save important personal Information
+* *View personal Information:* User can view his personal information he saved earlier
 
 #### 3.1.2 Schedule
-User can view his upcoming classes
+
+**Use Cases:**
+* *View schedule:* User can view his upcoming classes
+* *Filter classes:* User can filter classes he want to see in the calender
 
 #### 3.1.3 Meal plan
-User can view the meal plan of the current week
 
-#### 3.1.4 Floor plan
-User can view the floor plan of the DHBW building
+**Use Cases:**
+* *Show day-plan:* User can see the meal plan for today
+* *Show weekly-plan:* User can see the meal plan for the current week
+
+#### 3.1.4 Organizer
+
+**Use Cases:**
+* *View routes to specific room:* User can view the route to a selected room
+* *View information of professors:* User can view information like e-mail-address or room for a selected professor
 
 #### 3.1.5 User interaction
-User can notify other users about events (e.g. broken coffee maschine)
+
+**Use Cases:**
+* *Reporting events:* User can report specific events like a broken coffee machine
+* *Receiving notifications:* User get a notification if a event gets reported enough
 
 #### 3.1.6 Dualis
-User can view his grades saved in the dualis system
+
+**Use Cases:**
+* *Logging in:* User can log in with their dualis credentials
+* *Receive notifications:* User get a notification if a new grade gets published
+* *Show grades in different views:* User can view the grades in a detailed view and in an overview
 
 #### 3.1.7 Tram departure
-User can view the next tram departures of the DHBW station
+
+**Use Cases:**
+* *View departures:* User can view the next tram departures of the DHBW station
 
 ### 3.2 Usability
 tbd.
