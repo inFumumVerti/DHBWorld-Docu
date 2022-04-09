@@ -156,52 +156,78 @@ Database: Firebase
 * *View information about App:* View information about the App like version, developers, etc.
 
 ### 3.2 Usability
-tbd.
 
-#### 3.2.1 No training time needed
+#### 3.2.1 Familiar Feeling
+With the use of the standatized Material UI design the App will be intuitive to use. Users can nagivate through the app in a familiar way.
 
-#### 3.2.2 Familiar Feeling
+#### 3.2.2 minimal setup for specific functions
+For functions like dualis or the schedule the user only has to provide their credentials in order to get these functionalities.
 
 ### 3.3 Reliability
 
 #### 3.3.1 Availability
+The App will depend on quite a lot of external APIs in order to provide all of the funcitons. But all of these are well-known and need to function all the time, so they do have some high availability functions build in.
 
 #### 3.3.2 Defect Rate
+We will test the external APIs very extensively to make sure they meet our requirements.
 
 ### 3.4 Performance
 
 #### 3.4.1 Capacity
+Some of the external APIs are limeted to a specific amout of requests per timeunit. If the app will get more user than we expected we can always install a simple caching-server to slow down these requests.
 
 #### 3.4.2 Storage 
+We expect out app to be 40-50 MB in size which is no problem for phones with even limited storage like 16 GB.
 
 #### 3.4.3 App perfomance / Response time
+Because the app doesn't have to do a lot of calculations, searching, etc. we expect out app to run without any problems on nearly any phone.
 
 ### 3.5 Supportability
 
 #### 3.5.1 Coding Standards
+We will be using the language specific coding standards to make out code as clean and uniform as possible. We will also implement different "helper classes" in order to provide some translation for specific data.
 
 #### 3.5.2 Testing Strategy
+tdb.
 
 ### 3.6 Design Constraints
+We use the standartized Material UI in order to keep our app clean looking for our users.
+Internally we will use the MVC-architecture provided with the android framework.
+Our minimum android version will be API Level 21 (Android Version 5.0 - 5.0.2) in order to support a wide range of devices.
 
 ### 3.7 On-line User Documentation and Help System Requirements
+Our GitHub-Repository will be linked so users can ask for help, report bugs, or ask for more features. The functions inside the app will be well described.
 
 ### 3.8 Purchased Components
+Nothing yet.
 
 ### 3.9 Interfaces
 
 #### 3.9.1 User Interfaces
+tbd.
 
 #### 3.9.2 Hardware Interfaces
+tbd.
 
 #### 3.9.3 Software Interfaces
+Android API Level 21 (Android Version 5.0 - 5.0.2)
 
 #### 3.9.4 Communication Interfaces
+tbd.
 
 ### 3.10 Licensing Requirements
+tbd.
 
 ### 3.11 Legal, Copyright, and Other Notices
+tbd.
 
 ### 3.12 Applicable Standards
+tbd.
 
 ## 4. Supporting Information
+For more information check out our blog at: https://dhbworldka.wordpress.com/ 
+
+# Made with ❤️ by:
+[Daria Kodolova](https://github.com/dk1553)  
+[Linus Pust](https://github.com/inFumumVerti)  
+[Christian Zäske](https://github.com/blitzdose)
