@@ -82,10 +82,13 @@ Inspired and also annoyed by current not working correctly DHBW android apps we 
 
 ### 2.2 Use Case Diagram
 
-![alt text](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/48868eb08c43c04ae884c608dbd829d3dbe08cad/Use%20Case%20Diagram.svg "Use Case Diagram DHBWorld")
+![alt text](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Case%20Diagram_new.svg "Use Case Diagram DHBWorld")
 
 * Green: until december
 * White: until june
+* Yellow: optional
+* Gray: updated use cases
+
 ### 2.3 Technology Stack
 
 Languages: Java, XML
