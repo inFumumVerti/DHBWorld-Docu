@@ -75,8 +75,7 @@ The Android App is written in Java. In the Frontend no MVC Tool is needed, becau
 * Yellow: optional
 * Gray: updated use cases
 
-### 4.1 Use-Case Realizations
-n/a
+More information about functionality of the application and defined Use-Cases of the Project you can find in [SRS](./README.md).
 
 ## 5. Logical View
 
