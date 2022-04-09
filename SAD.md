@@ -1,4 +1,4 @@
-# Software Architecture Document (RUP)
+# Software Architecture Document (SAD)
 
 # Table of Contents
 - [Introduction](#1-introduction)
@@ -92,7 +92,7 @@ As you can see we only marked two classes as "View". As we mentioned in chapter 
 n/a
 
 ## 7. Deployment View
-n/a
+![Deployment diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/images/Deployment%20diagram.svg)
 ## 8. Implementation View
 n/a
 ### 8.1 Overview
