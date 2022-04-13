@@ -229,6 +229,7 @@ tbd.
 For more information check out our blog at: https://dhbworldka.wordpress.com/ 
 
 # Made with ❤️ by:
-[Daria Kodolova](https://github.com/dk1553)  
-[Linus Pust](https://github.com/inFumumVerti)  
-[Christian Zäske](https://github.com/blitzdose)
+[Daria Kodolova](https://github.com/dk1553)      | dk1553 and linus.pust@gmail.com
+[Linus Pust](https://github.com/inFumumVerti)    | inFumumVerti
+[Christian Zäske](https://github.com/blitzdose)	 | blitzdose
+([Adrian Kohl])					 | Adrian
