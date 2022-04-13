@@ -115,7 +115,7 @@ The start page of DHBWorld should consist of small information-blocks from all p
 * *View personal Information:* User can view his personal information he saved earlier
 
 #### 3.1.2 Schedule
-This part of the app will be an interface to connect with Rapler-Service to provide information about DHBW-Schedule.
+This part of the app will be an interface to connect with Rapler-Service to provide information about DHBW-Schedule. It should also have some special functions to make use of DHBW-Schedule more comfortable than origilan Service.
 
 **Use Cases:**
 * *View schedule:* User can view his upcoming classes
@@ -129,7 +129,7 @@ This feature will be an interface for connection with OpenMensa-Plattform to pro
 * *Show weekly-plan:* User can see the meal plan for the current week
 
 #### 3.1.4 Organizer
-This part of the app will consist of some organisational topics of DHBW, which are important specially for new students. Quick access to this information will save time of student's by search on DHBW-Website oder around the DHBW-Building.
+This part of the app will consist of some organisational topics of DHBW, which are important specially for new students. Quick access to this information will save time of student's by search on DHBW-Website oder around the DHBW-Building. 
 
 **Use Cases:**
 * *View routes to specific room:* User can view the route to a selected room
@@ -143,7 +143,7 @@ This feature will give all of students a possibility to communicate anonymoustly
 * *Receiving notifications:* User get a notification if a event gets reported enough
 
 #### 3.1.6 Dualis
-This part of the app will be an interface to connect with Dualis-Service to provide information about personal grades.
+This part of the app will be an interface to connect with Dualis-Service to provide information about personal grades. It should also include some of helpful functions, which are absent in Dualis-Service by itself.
 
 **Use Cases:**
 * *Logging in:* User can log in with their dualis credentials
