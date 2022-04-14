@@ -243,4 +243,4 @@ For more information check out our blog at: https://dhbworldka.wordpress.com/
 | [Daria Kodolova](https://github.com/dk1553) | dk1553 and linus.pust@gmail.com | 
 | [Linus Pust](https://github.com/inFumumVerti) | inFumumVerti	|
 | [Christian Zäske](https://github.com/blitzdose) | blitzdose |
-| [Adrian Kohl] | Adrian |
+| [Adrian Kohl](https://github.com/KadrioL) | KadrioL |
