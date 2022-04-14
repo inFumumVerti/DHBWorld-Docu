@@ -34,7 +34,7 @@ The main preconditions for this use case are:
 n/a
 
 ### 5.1 Save changes / Sync with server
-n/a
+The data will be retrieved from the OpenMensa-Servers
 
 # 6. Function Points
 n/a
