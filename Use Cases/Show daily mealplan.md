@@ -1,4 +1,4 @@
-# Use-Case Specification: Mealplan
+# Use-Case Specification: Show daily mealplan
 
 # 1. Show daily mealplan
 
