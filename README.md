@@ -108,42 +108,42 @@ Database: Firebase
 
 #### 3.1.1 Dashboard
 
-The start page of DHBWorld should consist of small information-blocks from all parts of the app. This will be realised in form of customizible dashboard. User will can configurate visible and unvisible blocks there.
+The start page of DHBWorld should consist of small information-blocks from all parts of the app. This will be realised in form of customizible dashboard. User can configurate visible blocks there.
 
 **Use Cases:**
 * *Save personal Information:* User can save important personal Information
 * *View personal Information:* User can view his personal information he saved earlier
 
 #### 3.1.2 Schedule
-This part of the app will be an interface to connect with Rapler-Service to provide information about DHBW-Schedule. It should also have some special functions to make use of DHBW-Schedule more comfortable than origilan Service.
+This part of the app will be an interface to connect with Rapla-Service to provide information about the DHBW-Schedule.
 
 **Use Cases:**
 * *View schedule:* User can view his upcoming classes
 * *Filter classes:* User can filter classes he want to see in the calender
 
 #### 3.1.3 Meal plan
-This feature will be an interface for connection with OpenMensa-Plattform to provide information about meal plan in DHBW.
+This feature will be an interface for connecting with the OpenMensa-Plattform to provide information about the meal plan for the DHBW.
 
 **Use Cases:**
 * *Show day-plan:* User can see the meal plan for today
 * *Show weekly-plan:* User can see the meal plan for the current week
 
 #### 3.1.4 Organizer
-This part of the app will consist of some organisational topics of DHBW, which are important specially for new students. Quick access to this information will save time of student's by search on DHBW-Website oder around the DHBW-Building. 
+This part of the app will consist of some organisational topics of DHBW, which are important specially for new students. Quick access to this information will save time of student's because they dont need to search on the DHBW-Website oder around the DHBW-Building. 
 
 **Use Cases:**
 * *View routes to specific room:* User can view the route to a selected room
 * *View information of professors:* User can view information like e-mail-address or room for a selected professor
 
 #### 3.1.5 User interaction
-This feature will give all of students a possibility to communicate anonymoustly with each other to optimize the dealing with domestic problems on DHBW and to avoid the loss of time with it.
+This feature will give all of the students a possibility to communicate anonymously with each other to optimize the dealing with problems like a broken coffee machine.
 
 **Use Cases:**
 * *Reporting events:* User can report specific events like a broken coffee machine
 * *Receiving notifications:* User get a notification if a event gets reported enough
 
 #### 3.1.6 Dualis
-This part of the app will be an interface to connect with Dualis-Service to provide information about personal grades. It should also include some of helpful functions, which are absent in Dualis-Service by itself.
+This part of the app will be an interface to connect with the Dualis-Service to provide information about personal grades.
 
 **Use Cases:**
 * *Logging in:* User can log in with their dualis credentials
@@ -151,13 +151,13 @@ This part of the app will be an interface to connect with Dualis-Service to prov
 * *Show grades in different views:* User can view the grades in a detailed view and in an overview
 
 #### 3.1.7 Tram departure
-This feature will be an interface to provide information about transport near the DHBW. The KVV-Service via DeutscheBahn-API will be used as a datasource. For a first time only the nearets tram station will be considered.
+This feature will be an interface to provide information about public transport near the DHBW through the KVV-API.
 
 **Use Cases:**
 * *View departures:* User can view the next tram departures of the DHBW station
 
 #### 3.1.8 Settings
-Hier user can configure and personalise own app. There will be also some application requirements.
+The user can configure and personalise the app. 
 
 **Use Cases:**
 * *Configure notifications:* Change settings about app-notifications
@@ -238,7 +238,9 @@ tbd.
 For more information check out our blog at: https://dhbworldka.wordpress.com/ 
 
 # Made with ❤️ by:
-[Daria Kodolova](https://github.com/dk1553)   		 | dk1553 and linus.pust@gmail.com | 
-[Linus Pust](https://github.com/inFumumVerti)   	 | inFumumVerti			   |
-[Christian Zäske](https://github.com/blitzdose)	 	 | blitzdose			   |
-[Adrian Kohl]						 | Adrian			   |
+| Name                                       | Username              |
+| ------------------------------------------ | ----------------- |
+| [Daria Kodolova](https://github.com/dk1553) | dk1553 and linus.pust@gmail.com | 
+| [Linus Pust](https://github.com/inFumumVerti) | inFumumVerti	|
+| [Christian Zäske](https://github.com/blitzdose) | blitzdose |
+| [Adrian Kohl] | Adrian |
