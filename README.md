@@ -71,6 +71,7 @@ The different features we want to include are:
 | [DHBWorld Blog](https://dhbworldka.wordpress.com/blog/)    | 21.10.2021 | DHBWorld Team    |
 | [GitHub](https://github.com/inFumumVerti/DHBWorld)              | 21.10.2021 | DHBWorld Team    |
 | [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/projects/df88e1dd-ce27-4721-bcd7-7820e3aa60fc)              | 09.04.2022 | DHBWorld Team    |
+| [Risk Management](https://lists.live.com/:l:/g/personal/b6fef5b2a43fbd53/FIHonHudZfhNtma8HXwP1dQBOCDV7yPLksiIXuwCKay1ZQ) | 24.04.2022 | DHBWorld Team |
 ### 1.5 Overview
 
 The following chapter provides an overview of this project with vision and Overall Use Case Diagram. The third chapter (Requirements Specification) delivers more details about the specific requirements in terms of functionality, usability and design parameters. Finally there is a chapter with supporting information.
