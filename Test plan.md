@@ -1,4 +1,4 @@
-# Test Plan Template
+# Test Plan
 
 ## Table of contents
 
