@@ -414,7 +414,7 @@ n/a
 
 ## 11. Iteration Milestones
 
-We want to keep over [XX]% code coverage.
+We want to keep over 15% code coverage.
 
 ## 12. Risks, Dependencies, Assumptions, and Constraints
 
