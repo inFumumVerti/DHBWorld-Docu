@@ -270,8 +270,7 @@ n/a
 
 ## 7.2 Reporting on Test Coverage
 
-tbd.
-[Provide a brief outline of both the form and content of the reports used to measure the extent of testing, and indicate how frequently they will be produced. Give an dication as to the method and tools used to record, measure, and report on the extent of testing.]
+The Test-Coverage will be determined by Jacoco an visualized by CodeClimate.
 
 ## 7.3 Perceived Quality Reports
 
@@ -279,8 +278,7 @@ n/a
 
 ## 7.4 Incident Logs and Change Requests
 
-tbd.
-[Provide a brief outline of both the method and tools used to record, track, and manage test incidents, associated change requests, and their status.]
+We use GitHub Actions to automate our tests on every pull request and push. We will be notified by E-Mail if a test fails. The testing itself is done by a self hosted linux machine.
 
 ## 7.5 Smoke Test Suite and Supporting Test Scripts
 
@@ -294,8 +292,7 @@ n/a
 
 ### 7.6.2     Additional Automated Functional Test Scripts
 
-tbd.
-[These will be either a collection of the source code files for automated test scripts, or the repository of both source code and compiled executables for test scripts maintained by the test automation product.]
+n/a
 
 ### 7.6.3     Test Guidelines
 n/a
@@ -306,44 +303,23 @@ n/a
 
 
 ## 8. Testing Workflow
-tbd.
 
-[Provide an outline of the workflow to be followed by the test team in the development and execution of this Test Plan.
-The specific testing workflow that you will use should be documented separately in the project's Development Case. It should explain how the project has customized the base RUP test workflow (typically on a phase-by-phase basis). In most cases, we recommend you place a reference in this section of the Test Plan to the relevant section of the Development Case. It might be both useful and sufficient to simply include a diagram or image depicting your test workflow.
-More specific details of the individual testing tasks are defined in a number of different ways, depending on project culture; for example:
-* defined as a list of tasks in this section of the Test Plan, or in an accompanying appendix
-* defined in a central project schedule (often in a scheduling tool such as Microsoft Project)
-* documented in individual, "dynamic" to-do lists for each team member, which are usually too detailed to be placed in the Test Plan
-* documented on a centrally located whiteboard and updated dynamically
-* not formally documented at all
-Based on your project culture, you should either list your specific testing tasks here or provide some descriptive text explaining the process your team uses to handle detailed task planning and provide a reference to where the details are stored, if appropriate.
-For Master Test Plans, we recommend avoiding detailed task planning, which is often an unproductive effort if done as a front-loaded activity at the beginning of the project. A Master Test Plan might usefully describe the phases and the number of iterations, and give an indication of what types of testing are generally planned for each Phase or Iteration.
-Note: Where process and detailed planning information is recorded centrally and separately from this Test Plan, you will have to manage the issues that will arise from having duplicate copies of the same information. To avoid team members referencing out-of-date information, we suggest that in this situation you place the minimum amount of process and planning information within the Test Plan to make ongoing maintenance easier and simply reference the "Master" source material.]
+1. Local testing in the IDE
+2. Push to a branch will trigger automated builds and tests
+3. Pull Requests to the main branch will trigger these builds and tests too
 
 ## 9. Environmental Needs
 
-[This section presents the non-human resources required for the Test Plan.]
-
 ### 9.1 Base System Hardware
-
-tbd.
-
-[The specific elements of the test system may not be fully understood in early iterations, so expect this section to be completed over time. We recommend that the system simulates the production environment, scaling down the concurrent access and database size, if and where appropriate.]
 
 The following table sets forth the system resources for the test effort presented in this Test Plan.
 
-| Resource                                                                | Quantity | Name and Type |
-|-------------------------------------------------------------------------|----------|---------------|
-| Database Server                                                         |          |               |
-| - Network or Subnet                                                     |          | TBD           |
-| - Server Name                                                           |          | TBD           |
-| - Database Name                                                         |          | TBD           |
-| Client Test PCs                                                         |          |               |
-| - Include special configuration requirements                            |          | TBD           |
-| Test Repository                                                         |          |               |
-| - Network or Subnet                                                     |          | TBD           |
-| - Server Name                                                           |          | TBD           |
-| Test Development PCs                                                    |          | TBD           |
+| Resource                                                                | Quantity | Name and Type                           |
+|-------------------------------------------------------------------------|:--------:|-----------------------------------------|
+| CI/CD Testing Server                                                    |1         |Self hosted Linux Machine (Debian 11)    |
+| Local Test Machine                                                      |3         |Each team members own developing device  |
+| Android virtual test device                                             |3         |Virtual devices created in Android Studio|
+| Android test device                                                     |3         |Each team members own Android device     |
 
 ### 9.2 Base Software Elements in the Test Environment
 
@@ -355,8 +331,7 @@ The following base software elements are required in the test environment for th
 | JUnit 4               | Unit testing library                         |
 | AndroidJUnit 4        | Unit testing library                         |
 | Cucumber              | human readable test definitions              |
-
-[These are examples!]
+| Jacoco                | Code coverage tool                           |
 
 ### 9.3 Productivity and Support Tools
 
@@ -364,29 +339,16 @@ tbd.
 
 The following tools will be employed to support the test process for this Test Plan.
 
-| Tool Category or Type             | Tool Brand Name | Vendor or In-house | Version |
-|-----------------------------------|-----------------|--------------------|---------|
-| Test Management                   |                 |                    |         |
-| Defect Tracking                   |                 |                    |         |
-| ASQ Tool for functional testing   |                 |                    |         |
-| ASQ Tool for performance testing  |                 |                    |         |
-| Test Coverate Monitor or Profiler |                 |                    |         |
-| Project Management                |                 |                    |         |
-| DBMS tools                        |                 |                    |         |
+| Tool Category or Type             | Tool Brand Name                | Vendor or In-house |
+|-----------------------------------|--------------------------------|--------------------|
+| Repository                        | [GitHub](github.com)           | Vendor             |
+| Test Coverage Monitor             | [CodeClimate](codeclimate.com) | Vendor             |
+| Metrics Tool                      | [CodeClimate](codeclimate.com) | Vendor             |
+| CI/CD Service                     | GitHub Action Runner           | In-house           |
 
 ### 9.4 Test Environment Configurations
 
-tbd.
-
-The following Test Environment Configurations need to be provided and supported for this project.
-
-| Configuration Name                | Description | Implemented in Physical Configuration |
-|-----------------------------------|-------------|---------------------------------------|
-| Average user configuration        |             |                                       |
-| Minimal configuration supported   |             |                                       |
-| Visually and mobility challenged  |             |                                       |
-| International Double Byte OS      |             |                                       |
-| Network installation (not client) |             |                                       |
+n/a
 
 ## 10. Responsibilities, Staffing, and Training Needs
 
@@ -396,17 +358,12 @@ tbd.
 
 This table shows the staffing assumptions for the test effort.
 
-| Human Resources                          |                                                                         |                                                                                                                                                                                                                                                                                   |
-|------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Role                                     | Minimum Resources Recommended (number of full-time roles allocated)     | Specific Responsbilities or Comments                                                                                                                                                                                                                                              |
-| Test Manager                             |                                                                         | Provides management oversight. Responsibilities include: planning and logistics agree mission identify motivators acquire appropriate resources present management reporting advocate the interests of test evaluate effectiveness of test effort                                 |
-| Test Analyst                             |                                                                         | Identifies and defines the specific tests to be conducted. Responsibilities include: identify test ideas define test details determine test results document change requests evaluate product quality                                                                             |
-| Test Designer                            |                                                                         | Defines the technical approach to the implementation of the test effort. Responsibilities include: define test approace define test automation architecture verify test techniques define testability elements structure test implementation                                      |
-| Tester                                   |                                                                         | Implements and executes the tests. Responsibilities include: implement tests and test suites execute test suites log results analyze and recover from test failures document incidents                                                                                            |
-| Test System Administrator                |                                                                         | Ensurs test environment and assets are managed and maintained. Responsibilities include: administer test management system install and support access to, and recovery of, test environment configurations and test labs                                                          |
-| Database Administrator, Database Manager |                                                                         | Ensures test data (database) environment and assets are managed andmaintained. Responsibilities include: support the administration of test data and test beds (database)                                                                                                         |
-| Designer                                 |                                                                         | Identifies and defines the operations, attributes, and associations of the test classes. Responsibilities include: defines the test classes required to support testability requirements as defined by the test team                                                              |
-| Implementer                              |                                                                         | Implements and unit tests the test classes and test packages. Responsibilities include: creates the test components required to support testability requirements as defined by the designer                                                                                       |
+| Role                      | Person Assigned                           |  Specific Responsibilities or Comments                                   |
+|---------------------------|:-----------------------------------------:|--------------------------------------------------------------------------|
+| Test Manager              | tbd                                       | Provides management oversight.                                           |
+| Test Designer             | tbd                                       | Defines the technical approach to the implementation of the test effort. |
+| Test System Administrator | [Christian](https://github.com/blitzdose) | Ensures test environment and assets are managed and maintained.          |
+
 
 ### 10.2 Staffing and Training Needs
 
