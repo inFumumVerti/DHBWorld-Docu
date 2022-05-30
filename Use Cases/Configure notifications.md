@@ -1,6 +1,6 @@
 # Use-Case Specification: Configure notifications
 
-# 1. Configure Visisble Configure notifications
+# 1. Configure Configure notifications
 ## 1.1 Brief Description
 This use case allows users to configure notifications
 
