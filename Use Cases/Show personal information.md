@@ -16,7 +16,8 @@ This use case allows users to view their personal information
 ![Activity Diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Cases/uc_personalinformation.svg)
 
 ### .feature File
-![.feature file](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Feature%20files/Featurefile%20PersonalInformation.png)
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20viewPersonalInformation1.png) 
+![](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20viewPersonalInformation2.png)
 
 ## 2.2 Alternative Flows
 n/a
