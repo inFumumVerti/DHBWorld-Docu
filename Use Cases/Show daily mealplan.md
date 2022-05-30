@@ -16,7 +16,7 @@ This use case allows users to view the daily mealplan
 ![Activity Diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Cases/uc_mealplan.svg)
 
 ### .feature File
-![.feature file](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Feature%20files/Featurefile%20MealPlan.png)
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20showDailyMealPlan.png)
 
 ## 2.2 Alternative Flows
 n/a
