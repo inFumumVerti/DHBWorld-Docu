@@ -5,7 +5,7 @@
 ## 1.1 Brief Description
 This use case allows users to configure visisble information on dashboard
 
-## 1.2 Mockup 
+## 1.2 Screenshot 
 ![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_configureVisiblaInformationOnDashboard.png)
 
 # 2. Flow of Events
