@@ -14,6 +14,7 @@
 - [Logical View](#5-logical-view)
     - [Overview](#51-overview)
     - [Architecturally Significant Design Packages](#52-architecturally-significant-design-packages)
+    - [Design Patterns](#53-design-patterns)
 - [Process View](#6-process-view)
 - [Deployment View](#7-deployment-view)
 - [Implementation View](#8-implementation-view)
