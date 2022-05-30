@@ -1,9 +1,9 @@
-# Use-Case Specification: Configure Visisble Information On Dashboard
+# Use-Case Specification: Configure Visible Information On Dashboard
 
-# 1. Configure Visisble Information On Dashboard
+# 1. Configure Visible Information On Dashboard
 
 ## 1.1 Brief Description
-This use case allows users to configure visisble information on dashboard
+This use case allows users to configure visible information on dashboard
 
 ## 1.2 Screenshot 
 ![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_configureVisiblaInformationOnDashboard.png)
