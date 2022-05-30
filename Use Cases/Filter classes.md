@@ -3,7 +3,7 @@
 # 1. View schedule
 
 ## 1.1 Brief Description
-This use case allows users to view schedule.
+This use case allows users to filter classes.
 
 ## 1.2 Screenshot
 ![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_filterClasses.png)
