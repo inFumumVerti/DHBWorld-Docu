@@ -94,7 +94,8 @@ In our architecture we made use of patterns. One pattern we used was the Private
 We used  Private Class Data Pattern from the beginning of the project. KVV Class Diagramm is an example of it:
 ![KVV Class Diagramm](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/images/KVV_class_diagram_design_pattern.svg)
 
-As you can see hier, all attributes in class Departure are private. KvvActivity Class uses getters to get their value.
+As you can see hier, all attributes in class Departure are private. KvvActivity Class uses getters to get their value. This pattern was necessary for protections of attributs of Departure-class. Another classes can use values of Departure-Attributes, but they shouldn't be able, to set own values for Departure-Attributes. 
+Since we are using them from the beginning, we are not able to show you a before and after comparison. 
 
 ## 6. Process View
 n/a
