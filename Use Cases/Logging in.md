@@ -5,7 +5,7 @@
 This use case allows users to log in to dualis
 
 ## 1.2 Screenshot 
-![Screenshot]()
+![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_loggingIn.jpg)
 
 # 2. Flow of Events
 
@@ -15,7 +15,7 @@ This use case allows users to log in to dualis
 
 
 ### .feature File
-![.feature file]()
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20loggingIn.png)
 
 ## 2.2 Alternative Flows
 n/a
