@@ -1,6 +1,6 @@
 # Use-Case Specification: View organizer
 
-# 1. View information about professors
+# 1. View organizer
 
 ## 1.1 Brief Description
 This use case allows users to view information about professors, rooms, courses.
