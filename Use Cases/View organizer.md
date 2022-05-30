@@ -1,9 +1,9 @@
-# Use-Case Specification: View information about professors
+# Use-Case Specification: View organizer
 
 # 1. View information about professors
 
 ## 1.1 Brief Description
-This use case allows users to view information about professors
+This use case allows users to view information about professors, rooms, courses.
 
 ## 1.2 Screenshot
 ![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_viewInformationAboutProfessors.png)
@@ -17,7 +17,7 @@ This use case allows users to view information about professors
 
 
 ### .feature File
-![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20viewInformationAboutProfessors.png)
+![.feature file]()
 
 ## 2.2 Alternative Flows
 n/a
