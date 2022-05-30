@@ -87,6 +87,13 @@ The following image shows one of our UML diagrams. Categorized in Model, View an
 ![UML diagram UserInteraction](./Class%20Diagram/ClassDiagram_UserInteraction.svg)  
 As you can see we only marked two classes as "View". As we mentioned in chapter two Android handles most of the "View" part internally and you only have to provide xml files to build the actual views.
 
+### 5.3 Design Patterns
+In our architecture we made use of patterns. One pattern we used was the Private Class Data Pattern. The goal of this pattern is protecting class state by minimizing the visibility of its attributes (data). The Private Class Data Pattern seeks to reduce exposure of attributes by limiting their visibility. 
+
+We used  Private Class Data Pattern from the beginning of the project. KVV Class Diagramm is an example of it:
+![KVV Class Diagramm](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/images/KVV_class_diagram_design_pattern.svg)
+
+As you can see hier, all attributes in class Departure are private. KvvActivity Class uses getters to get their value.
 
 ## 6. Process View
 n/a
