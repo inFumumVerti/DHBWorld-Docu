@@ -6,8 +6,8 @@
 This use case allows users to view information about professors, rooms, courses.
 
 ## 1.2 Screenshot
-![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_viewInformationAboutProfessors.png)
-
+![Screenshot1](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_viewOrganizer.png)
+![Screenshot2](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_viewInformationAboutProfessors.png)
 
 # 2. Flow of Events
 
@@ -17,7 +17,8 @@ This use case allows users to view information about professors, rooms, courses.
 
 
 ### .feature File
-![.feature file]()
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20viewOrganizer.png)
+
 
 ## 2.2 Alternative Flows
 n/a
