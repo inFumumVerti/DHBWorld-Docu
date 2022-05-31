@@ -25,11 +25,18 @@ n/a
 ![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_showWeeklyMealPlan.png)
 
 # 3. Special Requirements
-* Device has internet connection
-* Availability of OpenMensa Server
+* OpenMensa-API
+
 
 # 4. Preconditions
-The page MealPlan is opened.
+The main preconditions for this use case are:
+
+ * The user has started the app and has navigated to the meal plan.
+ * The user has an active internet connection
+ * The OpenMensa Server is available
+ * The user switch between tabs to view meal plans for different days
+ 
+
 
 # 5. Postconditions
 n/a
