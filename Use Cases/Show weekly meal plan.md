@@ -36,4 +36,5 @@ n/a
 
 # 6. Story Points
 We estimated this use case with 8 Story Points.
+
 (Our Story Points scala: 1, 2, 3, 5, 8, 13)
