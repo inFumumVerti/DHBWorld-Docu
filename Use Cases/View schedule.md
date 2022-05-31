@@ -1,9 +1,7 @@
 # Use-Case Specification: View schedule
 
-# 1. View schedule
-
-## 1.1 Brief Description
-This use case allows users to view schedule.
+# 1. Use Case Brief Description
+This use case allows users to view his upcoming classes.
 
 ## 1.2 Screenshot
 ![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_viewSchedule.png)
