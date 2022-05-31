@@ -46,7 +46,7 @@ The main preconditions for this use case are:
 # 5. Postconditions
 The app is able to use internal storage of the phone
 
-### 5.1 Save changes / Sync with server
+### 5.1 Save changes
 The information will be retrieved from the internal storage of the used phone
 
 # 6. Function Points
