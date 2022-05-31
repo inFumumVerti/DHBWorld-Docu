@@ -1,9 +1,7 @@
 # Use-Case Specification: View personal information
 
-# 1. View personal information
-
-## 1.1 Brief Description
-This use case allows users to view their personal information
+# 1. Use Case Brief Description
+User can save important personal Information and view his personal information he saved earlier. Also user can copy his personal information.
 
 ## 1.2 Mockup 
 ![Mockup Peronalinformation](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Screenshots/screenshot_personalinformation1.svg)
@@ -22,6 +20,9 @@ This use case allows users to view their personal information
 ## 2.2 Alternative Flows
 n/a
 
+## 2.3 Created view
+![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_personalInformation.png)
+
 # 3. Special Requirements
 n/a
 
@@ -32,10 +33,12 @@ The main preconditions for this use case are:
  2. The user has saved his personal information in the app.
 
 # 5. Postconditions
-n/a
+The app is able to use internal storage of the phone
 
 ### 5.1 Save changes / Sync with server
 The information will be retrieved from the internal storage of the used phone
 
-# 6. Function Points
-n/a
+# 6. Story Points
+We estimated this use case with 1 Story Point.
+
+(Our Story Points scala: 1, 2, 3, 5, 8, 13)
