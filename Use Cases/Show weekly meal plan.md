@@ -1,12 +1,11 @@
 # Use-Case Specification: Show Weekly Meal Plan
 
-# 1. Show Weekly Meal Plan
+# 1. Use Case Brief Description
 
-## 1.1 Brief Description
-This use case allows users to show weekly meal plan.
+This use case allows users to show meal plan for current week. The app get this information from OpenMensa Server.
 
-## 1.2 Screenshot
-![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_showWeeklyMealPlan.png)
+## 1.2 Mockup
+![Mockup](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Screenshots/screenshot_mealplan.svg)
 
 
 # 2. Flow of Events
@@ -22,17 +21,19 @@ This use case allows users to show weekly meal plan.
 ## 2.2 Alternative Flows
 n/a
 
-# 3. Special Requirements
+## 2.3 Created View
+![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_showWeeklyMealPlan.png)
 
+# 3. Special Requirements
+* Device has internet connection
+* Availability of OpenMensa Server
 
 # 4. Preconditions
-
+The page MealPlan is opened.
 
 # 5. Postconditions
 n/a
 
-### 5.1 Save changes / Sync with server
-
-
-# 6. Function Points
-n/a
+# 6. Story Points
+We estimated this use case with 8 Story Points.
+(Our Story Points scala: 1, 2, 3, 5, 8, 13)
