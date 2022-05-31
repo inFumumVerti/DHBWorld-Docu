@@ -112,8 +112,8 @@ Database: Firebase
 The start page of DHBWorld should consist of small information-blocks from all parts of the app. This will be realised in form of customizible dashboard. User can configurate visible blocks there.
 
 **Use Cases:**
-* *Save personal Information:* User can save important personal Information
-* *View personal Information:* User can view his personal information he saved earlier
+* *View personal Information:* User can save important personal Information and view his personal information he saved earlier
+* *Configure Dashboard:* Configure the visible information of the dashboard
 
 #### 3.1.2 Schedule
 This part of the app will be an interface to connect with Rapla-Service to provide information about the DHBW-Schedule.
@@ -134,7 +134,7 @@ This part of the app will consist of some organisational topics of DHBW, which a
 
 **Use Cases:**
 * *View routes to specific room:* User can view the route to a selected room
-* *View information of professors:* User can view information like e-mail-address or room for a selected professor
+* *View organizer:* User can view information about professors, rooms and courses like e-mail-address, phone number or room for a selected professor.
 
 #### 3.1.5 User interaction
 This feature will give all of the students a possibility to communicate anonymously with each other to optimize the dealing with problems like a broken coffee machine.
@@ -156,6 +156,7 @@ This feature will be an interface to provide information about public transport 
 
 **Use Cases:**
 * *View departures:* User can view the next tram departures of the DHBW station
+* *View disruption:* User can view canceled trams
 
 #### 3.1.8 Settings
 The user can configure and personalise the app. 
@@ -163,7 +164,6 @@ The user can configure and personalise the app.
 **Use Cases:**
 * *Configure notifications:* Change settings about app-notifications
 * *Change design:* Change the design of the app
-* *Configure Dashboard:* Configure the visible information of the dashboard
 * *View information about App:* View information about the App like version, developers, etc.
 
 ### 3.2 Usability
