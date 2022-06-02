@@ -43,13 +43,16 @@ This document describes the architecture of the DHBWorld project.
 
 ### 1.4 References
 
-| Title                                                              		| Date       | Publishing organization   |
-| --------------------------------------------------------------------------|:----------:| ------------------------- |
-| [DHBWorld Blog](https://dhbworldka.wordpress.com/)   		                | 2021-12-09 | DHBWorld Team     |
-| [Repository on GitHub](https://github.com/inFumumVerti/DHBWorld)		    | 2021-12-09 | DHBWorld Team     |
-| [UC1 Mealplan](./Use%20Cases/uc_mealplan.svg)           		            | 2021-12-09 | DHBWorld Team     |
-| [UC2 Personal Information](./Use%20Cases/uc_personalinformation.svg)      | 2021-12-09 | DHBWorld Team     |
-| [SRS](./README.md)                      		                            | 2021-12-09 | DHBWorld Team     |
+| Title                                                              		         | Date       | Publishing organization   |
+| -----------------------------------------------------------------------------------|:----------:| ------------------------- |
+| [DHBWorld Blog](https://dhbworldka.wordpress.com/)   		                         | 2021-12-09 | DHBWorld Team     |
+| [Repository on GitHub](https://github.com/inFumumVerti/DHBWorld)		             | 2021-12-09 | DHBWorld Team     |
+| [UC1 Show daily meal plan](./Use%20Cases/uc_mealplan.svg)           		         | 2021-12-09 | DHBWorld Team     |
+| [UC2 View personal information](./Use%20Cases/uc_personalinformation.svg)          | 2021-12-09 | DHBWorld Team     |
+| [UC3 Show weekly meal plan](./Use%20Cases/Show%20weekly%20meal%20plan.md)           		         | 2022-06-02 | DHBWorld Team     |
+| [UC4 Configure visible information](./Use%20Cases/Configure%20visible%20information%20on%20dashboard.md)      | 2022-06-02 | DHBWorld Team     |
+| [UC5 View schedule](./Use%20Cases/uc_mealplan.svg)           		                 | 2022-06-02 | DHBWorld Team     |
+| [SRS](./README.md)                      		                                     | 2021-12-09 | DHBWorld Team     |
 
 ### 1.5 Overview
 This document contains the architectural representation, goals and constraints as well 
