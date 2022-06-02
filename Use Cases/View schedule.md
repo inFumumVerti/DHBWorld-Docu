@@ -35,6 +35,6 @@ The main preconditions for this use case are:
 n/a
 
 # 6. Function Points
-We estimated this use case with 8 Story Points.
+We estimated this use case with 13 Story Points.
 
 (Our Story Points scala: 1, 2, 3, 5, 8, 13)
