@@ -204,11 +204,15 @@ com.main.dhbworld.UserInteraction | 10.0 | 9.0 | 0.0 | 47.0 | 51.0 | 2.207227638
 Total |  |  |  |  | 872.0 |  | 
 Average | 5.9 | 2.9 | 0.04 | 21.4 | 11.9| 0.6009808320234812 | 42.42064756974269
 
-**CBO = Coupling between object Classes
-DIT = Depth of inheritence tree
-NOC = Number of children of a class
-RFC = Response for Class
-WMC = Weightened methods for class**
+**CBO** = Coupling between object Classes
+
+**DIT** = Depth of inheritence tree
+
+**NOC** = Number of children of a class
+
+**RFC** = Response for Class
+
+**WMC** = Weightened methods for class
 
 The table above shows an overview of our current metrics, taken via MetricsReloaded in Android Studio.
 
