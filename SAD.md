@@ -220,15 +220,13 @@ Average | 5.9 | 2.9 | 0.04 | 21.4 | 11.9| 0.6009808320234812 | 42.42064756974269
 The table above shows an overview of our current metrics, taken via MetricsReloaded in Android Studio.
 
 
-For evaluation of out code we choose CBO- and WMC-Metrics. We tryed to improve a level of our code with code refactoring and after that we compared  the metric-values of our old and new code.
+For evaluation of out code we choose CBO- and WMC-Metrics. We tryed to improve a level of our code with code refactoring and after that we compared  the metric-values of our old and new code. As example we chose three classes: CantineActivity, DashboardActivity and DualisAPI.
 
 **Comparison of CBO-values before and after the refactoring of code**
 ![CBO-Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/CBO.png)
 
-As example we chose three classes: CantineActivity, DashboardActivity and DualisAPI.
-
 **Comparison of WMC-values before and after the refactoring of code**
 ![WMC-Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/WMC.png)
 
-As example we chose three classes: CantineActivity, DashboardActivity and DualisAPI.
+
 
