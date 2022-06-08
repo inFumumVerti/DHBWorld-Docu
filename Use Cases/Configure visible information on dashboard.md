@@ -18,7 +18,7 @@ We didn't designed view befor realization of use case. Design of the page view w
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-
+![Activity Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Use%20Cases/configure_visible_information_on_dashboard.svg)
 
 ### .feature File
 ![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20configureVisisbleInformationOnDashboard.png)
