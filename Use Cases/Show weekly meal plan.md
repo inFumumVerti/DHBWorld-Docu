@@ -13,7 +13,7 @@ This use case allows users to show meal plan for current week. The app get this 
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-
+![Activity Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Use%20Cases/us_mealplan_week.svg)
 
 ### .feature File
 ![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20showWeeklyMealPlan.png)
