@@ -16,13 +16,13 @@ This use case allows users to show meal plan for current week. The app get this 
 
 
 ### .feature File
-![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20showWeeklyMealPlan.png)
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20showWeeklyMealPlan.png)
 
 ## 2.2 Alternative Flows
 n/a
 
 ## 2.3 Created View
-![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_showWeeklyMealPlan.png)
+![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Screenshots/screenshot_showWeeklyMealPlan.png)
 
 # 3. Special Requirements
 * OpenMensa-API
