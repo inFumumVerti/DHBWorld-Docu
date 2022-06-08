@@ -21,13 +21,13 @@ We didn't designed view befor realization of use case. Design of the page view w
 
 
 ### .feature File
-![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20configureVisisbleInformationOnDashboard.png)
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20configureVisisbleInformationOnDashboard.png)
 
 ## 2.2 Alternative Flows
 n/a
 
 ## 2.3 Created View
-![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_configureVisiblaInformationOnDashboard.png)
+![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Screenshots/screenshot_configureVisiblaInformationOnDashboard.png)
 
 # 3. Special Requirements
 * API Open Mensa
