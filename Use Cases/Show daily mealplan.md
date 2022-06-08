@@ -14,13 +14,13 @@ This use case allows users to view the daily mealplan. Every meal has a brief de
 ![Activity Diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Cases/uc_mealplan.svg)
 
 ### .feature File
-![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20showDailyMealPlan.png)
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20showDailyMealPlan.png)
 
 ## 2.2 Alternative Flows
 n/a
 
 ## 3.2 Created View
-![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_showWeeklyMealPlan.png)
+![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Screenshots/screenshot_showWeeklyMealPlan.png)
 
 # 3. Special Requirements
  * OpenMensa-API
