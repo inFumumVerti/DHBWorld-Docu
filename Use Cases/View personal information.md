@@ -14,14 +14,14 @@ User can save important personal Information and view his personal information h
 ![Activity Diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Cases/uc_personalinformation.svg)
 
 ### .feature File
-![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20viewPersonalInformation1.png) 
-![](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Feature%20files/Featurefile%20viewPersonalInformation2.png)
+![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20viewPersonalInformation1.png) 
+![](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20viewPersonalInformation2.png)
 
 ## 2.2 Alternative Flows
 n/a
 
 ## 2.3 Created view
-![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/blob/useCases/Screenshots/screenshot_personalInformation.png)
+![Screenshot](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Screenshots/screenshot_personalInformation.png)
 
 # 3. Special Requirements
 n/a
