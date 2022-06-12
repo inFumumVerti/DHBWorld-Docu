@@ -61,7 +61,7 @@ as the logical, deployment, implementation and data views.
 ## 2. Architectural Representation
 This project uses the MVC Pattern for the front end (Android App) but most of the View-components are handled internally with xml files. The MVC Pattern can be seen in the next picture:
 
-![MVC](./images/MVC.png)
+![MVC](./images/MVC_upgraded.png)
 
 ## 3. Architectural Goals and Constraints
 
