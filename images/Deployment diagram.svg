@@ -674,7 +674,7 @@
       </g>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-309,325)" stroke-linecap="butt">
-      <text x="602.2962" xml:space="preserve" y="93.9479" clip-path="url(#clipPath2)" stroke="none">DB API</text>
+      <text x="598.6253" xml:space="preserve" y="93.9479" clip-path="url(#clipPath2)" stroke="none">KVV API</text>
     </g>
     <g text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.228,0,0,1.228,407.6321,331.3102)">
       <g clip-path="url(#clipPath9)">
@@ -947,11 +947,11 @@
       <path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M483.4974 61.9373 L470.6129 65.6774 L483.4974 61.9373 L478.7587 74.489 Z" clip-path="url(#clipPath2)" stroke-linecap="square"/>
       <path d="M429.1165 112.2094 L442.001 108.4694 L429.1165 112.2094 L433.8552 99.6578 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M429.1165 112.2094 L442.001 108.4694 L429.1165 112.2094 L433.8552 99.6578 Z" clip-path="url(#clipPath2)" stroke-linecap="square"/>
-      <path fill="none" d="M682.3445 -82.9731 L640.908 2.3573" clip-path="url(#clipPath2)"/>
+      <path fill="none" d="M682.3445 -82.9731 L640.3276 3.5525" clip-path="url(#clipPath2)"/>
       <path d="M684.0919 -86.5713 L673.4526 -78.3977 L684.0919 -86.5713 L684.2472 -73.1558 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M684.0919 -86.5713 L673.4526 -78.3977 L684.0919 -86.5713 L684.2472 -73.1558 Z" clip-path="url(#clipPath2)" stroke-linecap="square"/>
-      <path d="M639.1607 5.9555 L649.7999 -2.2181 L639.1607 5.9555 L639.0054 -7.46 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M639.1607 5.9555 L649.7999 -2.2181 L639.1607 5.9555 L639.0054 -7.46 Z" clip-path="url(#clipPath2)" stroke-linecap="square"/>
+      <path d="M638.5803 7.1507 L649.2195 -1.0229 L638.5803 7.1507 L638.425 -6.2648 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M638.5803 7.1507 L649.2195 -1.0229 L638.5803 7.1507 L638.425 -6.2648 Z" clip-path="url(#clipPath2)" stroke-linecap="square"/>
       <path fill="none" d="M712.9788 -78.3395 L729.881 1.9416" clip-path="url(#clipPath2)"/>
       <path d="M712.1547 -82.2537 L708.7556 -69.275 L712.1547 -82.2537 L720.4982 -71.7473 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" stroke-miterlimit="10" stroke-dasharray="none" d="M712.1547 -82.2537 L708.7556 -69.275 L712.1547 -82.2537 L720.4982 -71.7473 Z" clip-path="url(#clipPath2)" stroke-linecap="square"/>
