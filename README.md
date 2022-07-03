@@ -112,22 +112,22 @@ Database: Firebase
 The start page of DHBWorld should consist of small information-blocks from all parts of the app. This will be realised in form of customizible dashboard. User can configurate visible blocks there.
 
 **Use Cases:**
-* *View personal Information:* User can save important personal Information and view his personal information he saved earlier
-* *Configure Dashboard:* Configure the visible information of the dashboard
+* *[View personal Information:](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Use%20Cases/View%20personal%20information.md)* User can save important personal Information and view his personal information he saved earlier
+* *[Configure Dashboard:](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Use%20Cases/Configure%20visible%20information%20on%20dashboard.md)* Configure the visible information of the dashboard
 
 #### 3.1.2 Schedule
 This part of the app will be an interface to connect with Rapla-Service to provide information about the DHBW-Schedule.
 
 **Use Cases:**
-* *View schedule:* User can view his upcoming classes
+* *[View schedule:](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Use%20Cases/View%20schedule.md)* User can view his upcoming classes
 * *Filter classes:* User can filter classes he want to see in the calender
 
 #### 3.1.3 Meal plan
 This feature will be an interface for connecting with the OpenMensa-Plattform to provide information about the meal plan for the DHBW.
 
 **Use Cases:**
-* *Show day-plan:* User can see the meal plan for today
-* *Show weekly-plan:* User can see the meal plan for the current week
+* *[Show day-plan:](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Use%20Cases/Show%20daily%20mealplan.md)* User can see the meal plan for today
+* *[Show weekly-plan:](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Use%20Cases/Show%20weekly%20meal%20plan.md)* User can see the meal plan for the current week
 
 #### 3.1.4 Organizer
 This part of the app will consist of some organisational topics of DHBW, which are important specially for new students. Quick access to this information will save time of student's because they dont need to search on the DHBW-Website oder around the DHBW-Building. 
