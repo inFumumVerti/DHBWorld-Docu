@@ -223,10 +223,10 @@ The table above shows an overview of our current metrics, taken via MetricsReloa
 For evaluation of out code we choose CBO- and WMC-Metrics. We tryed to improve a level of our code with code refactoring and after that we compared  the metric-values of our old and new code. As example we chose three classes: CantineActivity, DashboardActivity and DualisAPI.
 
 **Comparison of CBO-values before and after the refactoring of code**
-![CBO-Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/CBO.png)
+![CBO-Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Metrics/CBO.png)
 
 **Comparison of WMC-values before and after the refactoring of code**
-![WMC-Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/WMC.png)
+![WMC-Diagram](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Metrics/WMC.png)
 
 
 
