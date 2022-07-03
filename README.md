@@ -221,7 +221,7 @@ tbd.
 tbd.
 
 #### 3.9.3 Software Interfaces
-Android API Level 21 (Android Version 5.0 - 5.0.2)
+Android API Level 26 (Android Version 8.0)
 
 #### 3.9.4 Communication Interfaces
 tbd.
