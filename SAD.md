@@ -10,7 +10,6 @@
 - [Architectural Representation](#2-architectural-representation)
 - [Architectural Goals and Constraints](#3-architectural-goals-and-constraints)
 - [Use-Case View](#4-use-case-view)
-    - [Use-Case Realizations](#41-use-case-realizations)
 - [Logical View](#5-logical-view)
     - [Overview](#51-overview)
     - [Architecturally Significant Design Packages](#52-architecturally-significant-design-packages)
@@ -22,7 +21,7 @@
     - [Layers](#82-layers)
 - [Data View](#9-data-view)
 - [Size and Performance](#10-size-and-performance)
-- [Quality](#11-quality)
+- [Quality](#11-qualitymetrics)
 
 ## 1. Introduction
 
@@ -62,6 +61,8 @@ as the logical, deployment, implementation and data views.
 This project uses the MVC Pattern for the front end (Android App) but most of the View-components are handled internally with xml files. The MVC Pattern can be seen in the next picture:
 
 ![MVC](./images/MVC_upgraded.png)
+
+The MVC-pattern we use uses two more components: Firebase and Shared Preferences. We use firebase for our database, that has to be shared with other users like the "User Interaction"-Feature. The shared preferences are used to store information like the matriculation number privately on the device itself.
 
 ## 3. Architectural Goals and Constraints
 
@@ -104,6 +105,8 @@ Since we are using them from the beginning, we are not able to show you a before
 n/a
 
 ## 7. Deployment View
+We communiate with a few externel services. You can see that we call them via their APIs over the Internet. Just the local database (shared Preferences) can be called directly on the phone.
+
 ![Deployment diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/images/Deployment%20diagram.svg)
 ## 8. Implementation View
 n/a
@@ -118,7 +121,7 @@ Our Database is handled with Firebase. There we don't use the classic ERM but ra
 ![Database-diagram](./images/Database_strukture.png)
 
 ## 10. Size and Performance
-n/a
+App size: 4.86 MB
 
 ## 11. Quality/Metrics
 | class | CBO | DIT | NOC | RFC | WMC | Halstead Bugs | Halstead Difficulty |
