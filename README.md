@@ -199,7 +199,7 @@ Because the app doesn't have to do a lot of calculations, searching, etc. we exp
 We will be using the language specific coding standards to make out code as clean and uniform as possible. We will also implement different "helper classes" in order to provide some translation for specific data.
 
 #### 3.5.2 Testing Strategy
-3 tests: User-tests, Unit-tests, Function-tests
+[Test Plan](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Test%20plan.md)
 
 ### 3.6 Design Constraints
 We use the standartized Material UI in order to keep our app clean looking for our users.
@@ -215,10 +215,10 @@ Nothing
 ### 3.9 Interfaces
 
 #### 3.9.1 User Interfaces
--
+n/a
 
 #### 3.9.2 Hardware Interfaces
--
+n/a
 
 #### 3.9.3 Software Interfaces
 Android API Level 26 (Android Version 8.0)
