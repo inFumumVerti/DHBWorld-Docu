@@ -227,7 +227,7 @@ Android API Level 26 (Android Version 8.0)
 tbd.
 
 ### 3.10 Licensing Requirements
-tbd.
+[License](https://github.com/inFumumVerti/DHBWorld/blob/main/LICENSE.md)
 
 ### 3.11 Legal, Copyright, and Other Notices
 tbd.
