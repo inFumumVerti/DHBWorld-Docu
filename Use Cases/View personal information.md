@@ -11,7 +11,7 @@ User can save important personal Information and view his personal information h
 ## 2.1 Basic Flow
 
 ### Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Cases/uc_personalinformation.svg)
+![Activity Diagram](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Cases/ActivityDiagram/uc_personalinformation.svg)
 
 ### .feature File
 ![.feature file](https://github.com/inFumumVerti/DHBWorld-Docu/raw/main/Feature%20files/Featurefile%20viewPersonalInformation1.png) 
