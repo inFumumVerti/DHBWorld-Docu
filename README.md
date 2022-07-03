@@ -204,7 +204,7 @@ We will be using the language specific coding standards to make out code as clea
 ### 3.6 Design Constraints
 We use the standartized Material UI in order to keep our app clean looking for our users.
 Internally we will use the MVC-architecture provided with the android framework.
-Our minimum android version will be API Level 21 (Android Version 5.0 - 5.0.2) in order to support a wide range of devices.
+Our minimum android version will be API Level 26 (Android Version 8.0) in order to support a wide range of devices.
 
 ### 3.7 On-line User Documentation and Help System Requirements
 Our GitHub-Repository will be linked so users can ask for help, report bugs, or ask for more features. The functions inside the app will be well described.
