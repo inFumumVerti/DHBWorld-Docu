@@ -199,7 +199,7 @@ Because the app doesn't have to do a lot of calculations, searching, etc. we exp
 We will be using the language specific coding standards to make out code as clean and uniform as possible. We will also implement different "helper classes" in order to provide some translation for specific data.
 
 #### 3.5.2 Testing Strategy
-tdb.
+3 tests: User-tests, Unit-tests, Function-tests
 
 ### 3.6 Design Constraints
 We use the standartized Material UI in order to keep our app clean looking for our users.
@@ -210,30 +210,30 @@ Our minimum android version will be API Level 21 (Android Version 5.0 - 5.0.2) i
 Our GitHub-Repository will be linked so users can ask for help, report bugs, or ask for more features. The functions inside the app will be well described.
 
 ### 3.8 Purchased Components
-Nothing yet.
+Nothing
 
 ### 3.9 Interfaces
 
 #### 3.9.1 User Interfaces
-tbd.
+-
 
 #### 3.9.2 Hardware Interfaces
-tbd.
+-
 
 #### 3.9.3 Software Interfaces
 Android API Level 26 (Android Version 8.0)
 
 #### 3.9.4 Communication Interfaces
-tbd.
+Ethernet
 
 ### 3.10 Licensing Requirements
 [License](https://github.com/inFumumVerti/DHBWorld/blob/main/LICENSE.md)
 
 ### 3.11 Legal, Copyright, and Other Notices
-tbd.
+[License](https://github.com/inFumumVerti/DHBWorld/blob/main/LICENSE.md)
 
 ### 3.12 Applicable Standards
-tbd.
+TRIAS-Standard for Tram departures
 
 ## 4. Supporting Information
 For more information check out our blog at: https://dhbworldka.wordpress.com/ 
